@@ -1,0 +1,1 @@
+Please read the project details here in this report - <a href="https://github.com/vgupta701/Predictive-Maintenance-Based-On-Anomaly-Detection-Using-Sparse-Autoencoders/blob/main/AML%20Project%20Presentation%20-%20Anomaly%20Detection%20(1).pdf">Report</a>
